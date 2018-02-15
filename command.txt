@@ -1,0 +1,5 @@
+!Example commands for cisco
+enable
+conf t
+hostname C1
+end
